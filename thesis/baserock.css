@@ -27,6 +27,13 @@ blockquote {
   border-left: 3px solid #ccc;
 }
 
+code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+}
+
  /* Tooltip container */
 .tooltip {
   position: relative;
