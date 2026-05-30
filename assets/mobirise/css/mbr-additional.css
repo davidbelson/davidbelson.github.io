@@ -2084,6 +2084,49 @@ section.lazy-placeholder:after {
 .cid-rmIFKQujgc .card-title {
   text-align: center;
 }
+.cid-vl7kyO7kXj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-vl7kyO7kXj .card-img {
+  background-color: #fff;
+}
+.cid-vl7kyO7kXj .card-box {
+  padding: 2rem;
+  background-color: #efefef;
+}
+.cid-vl7kyO7kXj h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-vl7kyO7kXj p {
+  text-align: left;
+}
+.cid-vl7kyO7kXj .mbr-text {
+  color: #767676;
+}
+.cid-vl7kyO7kXj .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-vl7kyO7kXj .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-vl7kyO7kXj .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-vl7kyO7kXj .card-title {
+  text-align: center;
+}
 .cid-tZL0qejUef {
   padding-top: 45px;
   padding-bottom: 0px;
